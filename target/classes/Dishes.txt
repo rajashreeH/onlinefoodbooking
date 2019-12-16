@@ -1,0 +1,6 @@
+111,Veg Pulao,250,26
+111,Matar Paneer,220,25
+222,Sahi Paneer,210,23
+222,Dhosa,260,21
+333,Sahi Paneer,210,23
+333,Dhosa,260,21
